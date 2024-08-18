@@ -1,5 +1,6 @@
 {
-  "name": "ecommerce",
+  "name": "Next.js-Ecommerce",
+  "description": "A beautiful ecommerce made with Nextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
